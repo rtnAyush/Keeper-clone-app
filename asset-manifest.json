@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/Keeper-clone-app/static/js/main.1c254552.js",
+    "main.css": "/Keeper-clone-app/static/css/main.bb1a94a0.css",
+    "main.js": "/Keeper-clone-app/static/js/main.8f394e91.js",
     "index.html": "/Keeper-clone-app/index.html",
-    "main.1c254552.js.map": "/Keeper-clone-app/static/js/main.1c254552.js.map"
+    "main.bb1a94a0.css.map": "/Keeper-clone-app/static/css/main.bb1a94a0.css.map",
+    "main.8f394e91.js.map": "/Keeper-clone-app/static/js/main.8f394e91.js.map"
   },
   "entrypoints": [
-    "static/js/main.1c254552.js"
+    "static/css/main.bb1a94a0.css",
+    "static/js/main.8f394e91.js"
   ]
 }
