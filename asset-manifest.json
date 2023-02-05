@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Keeper-clone-app/static/js/main.f528fe7e.js",
+    "main.js": "/Keeper-clone-app/static/js/main.1c254552.js",
     "index.html": "/Keeper-clone-app/index.html",
-    "main.f528fe7e.js.map": "/Keeper-clone-app/static/js/main.f528fe7e.js.map"
+    "main.1c254552.js.map": "/Keeper-clone-app/static/js/main.1c254552.js.map"
   },
   "entrypoints": [
-    "static/js/main.f528fe7e.js"
+    "static/js/main.1c254552.js"
   ]
 }
